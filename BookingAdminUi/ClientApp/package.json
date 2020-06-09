@@ -17,7 +17,7 @@
     "react-transition-group": "^2.5.1",
     "classnames": "^2.2.6",
     "primereact": "^4.2.1",
-    "primeicons": "^4.0.0-rc2"
+    "primeicons": "^3.0.0"
   },
   "devDependencies": {
     "ajv": "^6.9.1",
