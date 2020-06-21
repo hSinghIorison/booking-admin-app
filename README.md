@@ -11,5 +11,5 @@ This application is home to managing configurations that control aspects of the 
 ## Build and deploy commands
 ```
 \BookingAdminSolution\BookingAdminUi> docker build -t bookingmanagementapp .
-\BookingAdminSolution\BookingAdminUi> docker run -d -p 8080:80 --name bookingadminui bookingmanagementapp
+\BookingAdminSolution\BookingAdminUi> docker run -d -p 8080:80 --name bookingadminapp bookingmanagementapp
 ```
